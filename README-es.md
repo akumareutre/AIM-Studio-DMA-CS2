@@ -10,7 +10,7 @@
 [Instalación](#instalación) · [Conexiones](#conexiones) · [Uso](#uso) · [Solución de problemas](#solución-de-problemas)
 
 </div>
-
+<img src="soft.png" alt="Logo" width="500">
 ---
 
 ## Presentación
