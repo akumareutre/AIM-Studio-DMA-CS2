@@ -10,7 +10,7 @@
 [Installation](#installation) · [Wiring](#wiring) · [Usage](#usage) · [Troubleshooting](#troubleshooting)
 
 </div>
-
+<img src="soft.png" alt="Logo" width="500">
 ---
 
 ## Overview
