@@ -1,0 +1,12 @@
+# Installation locale et préférences personnelles
+release/.venv-aim/
+release/.runtime/
+release/aim-settings.conf
+release/aim-preferences.json
+release/aim-preferences.tmp
+release/*.bak
+release/maps/*.bvh
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store

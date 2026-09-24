@@ -1,0 +1,10 @@
+#!/usr/bin/env -S gio launch
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=AIM Studio DMA
+Comment=By Akumaprog — installation et lancement
+Exec=python3 -c "import os,sys,shlex; from pathlib import Path; p=Path(sys.argv[1]); p=p if p.exists() else Path(shlex.split(str(p))[0]); p=p if p.is_dir() else p.parent; os.execvp('bash',['bash',str(p/'START.sh')])" "%k"
+Icon=input-gaming
+Terminal=false
+Categories=Utility;
