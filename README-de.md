@@ -10,7 +10,7 @@
 [Installation](#installation) · [Verkabelung](#verkabelung) · [Nutzung](#nutzung) · [Fehlerbehebung](#fehlerbehebung)
 
 </div>
-
+<img src="soft.png" alt="Logo" width="500">
 ---
 
 ## Überblick
