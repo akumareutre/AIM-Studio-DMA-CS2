@@ -10,7 +10,7 @@
 [Installation](#installation) · [Branchements](#branchements) · [Utilisation](#utilisation) · [Dépannage](#dépannage)
 
 </div>
-
+![Texte alternatif de l'image](soft.png)
 ---
 
 ## Présentation
