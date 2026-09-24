@@ -10,7 +10,7 @@
 [Installation](#installation) · [Branchements](#branchements) · [Utilisation](#utilisation) · [Dépannage](#dépannage)
 
 </div>
-<center><img src="soft.png" alt="Logo" width="500"></center>
+<img src="soft.png" alt="Logo" width="500">
 
 ---
 
